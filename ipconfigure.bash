@@ -11,7 +11,7 @@ network:
     enp3s0:
       dhcp4: false
       addresses:
-        - 172.31.74.220/24
+        - 172.31.74.141/24
   version: 2
 EOF
 
